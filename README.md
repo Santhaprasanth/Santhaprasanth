@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Santhaprasanth
-- 👀 I’m interested in ...Iot 
-- 🌱 I’m currently learning ...Esp-Idf
+- 👀 I’m interested in ...Embedded System
+- 🌱 I’m currently learning ...Atmel Studio
+- 
 
 
 
